@@ -1,4 +1,9 @@
 ========================
+geodjango_template + vagrant setup
+========================
+
+Based on:
+========================
 django-twoscoops-project
 ========================
 
