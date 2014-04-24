@@ -1,0 +1,5 @@
+# Local development dependencies
+-r base.txt
+coverage
+django-debug-toolbar
+Sphinx
